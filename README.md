@@ -1,4 +1,4 @@
-# Big Mart Sales Data - Exploratory Data Analysis (EDA)
+# Big Mart Sales Data - Exploratory Data Analysis (EDA) [Open](https://github.com/Harsh-33/EDA-project/blob/main/BigMartEDA.ipynb)
 
 ## Project Overview
 
